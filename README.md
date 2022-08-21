@@ -1,5 +1,5 @@
 <h1 align="left">Hello to the world of Github👋</h1>
-<h1 align="center">Hi 👋, I'm Tanya Agrawal</h1>
+<h1 align="left">Hi 👋, I'm Tanya Agrawal</h1>
 
 
 - 👀 I'm interested in **Software Development**
@@ -14,7 +14,6 @@
 
 - ⚡ Fun fact: **I am struggling for coming up with things that can be forked through Github.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
