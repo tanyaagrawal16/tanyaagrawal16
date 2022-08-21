@@ -1,5 +1,5 @@
 <h1 align="left">Hello to the world of Github👋</h1>
-<h1 align="left">Hi 👋, I'm Tanya Agrawal</h1>
+<h1 align="left">I'm Tanya Agrawal</h1>
 
 
 - 👀 I'm interested in **Software Development**
