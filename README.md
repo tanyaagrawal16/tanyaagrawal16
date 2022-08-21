@@ -1,5 +1,6 @@
+<h1 align="left">Hello to the world of Github👋</h1>
 <h1 align="center">Hi 👋, I'm Tanya Agrawal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 - 👀 I'm interested in **Software Development**
 
